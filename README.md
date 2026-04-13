@@ -47,15 +47,15 @@ It includes:
 - Work equivalent values  
 
 ## ⚙️ Technologies
-
-- Power BI  
-- Data modeling  
-- Data visualization  
+- Power BI (DAX, Power Query)
+- Data modeling & relationships
+- Interactive visualizations & slicers
 
 ## 🌍 Context
 
-This project was created in a German business context,  
-which is reflected in the dashboard language and structure.
+Created during an internship at **Arineo GmbH**, Göttingen (2026).
+The dashboard was developed based on simulated data and later 
+adapted for real customer data.
 
 ## 💡 Takeaway
 
