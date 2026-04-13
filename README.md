@@ -17,16 +17,16 @@ The dashboard provides insights into:
 ## 📸 Screenshots
 
 ### Overview
-![Overview](./hr-analytics-dashboard/screenshots/01_overview.png)
+![Overview](screenshots/01_overview.png)
 
 ### Supervisor Analysis
-![Supervisor](./hr-analytics-dashboard/screenshots/02_supervisor_analysis.png)
+![Supervisor](screenshots/02_supervisor_analysis.png)
 
 ### Department Analysis
-![Department](./hr-analytics-dashboard/screenshots/03_department_analysis.png)
+![Department](screenshots/03_department_analysis.png)
 
 ### Employee Detail
-![Employee](./hr-analytics-dashboard/screenshots/04_employee_detail.png)
+![Employee](screenshots/04_employee_detail.png)
 
 ## 🧠 Key Insights
 
