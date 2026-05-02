@@ -1,8 +1,8 @@
 # Employee Analytics Dashboard (Power BI)
 
-This project presents an employee analytics dashboard built with Power BI, based on a simulated HR dataset.
+This project presents an employee analytics dashboard built with Power BI.
 
-It focuses on analyzing workforce structure, employee development, and key HR metrics through interactive visualizations.
+The public version uses simulated HR data and focuses on workforce structure, employee development, and key HR metrics through interactive visualizations.
 
 ## 📊 Dashboard Overview
 
@@ -30,34 +30,34 @@ The dashboard provides insights into:
 
 ## 🧠 Key Insights
 
-- Workforce composition differs significantly across departments  
-- Fluctuation rates vary strongly between supervisors  
+- Workforce composition differs across departments  
+- Fluctuation rates vary between supervisors  
 - Aggregated metrics can hide important patterns  
 - Visual dashboards make trends easier to identify than raw data  
 
 ## 🗂️ Data
 
-The dataset used in this project is simulated.
-
-It includes:
+The dataset includes:
 
 - Employee attributes (age, gender, department)  
 - Employment periods and status  
 - Absence data (sick leave, vacation)  
 - Work equivalent values  
 
+Before building the report, I cleaned the sample data, including duplicate and inconsistent employee records.
+
 ## ⚙️ Technologies
+
 - Power BI (DAX, Power Query)
 - Data modeling & relationships
 - Interactive visualizations & slicers
 
 ## 🌍 Context
 
-Created during an internship at **Arineo GmbH**, Göttingen (2026).
-The dashboard was developed based on simulated data and later 
-adapted for real customer data.
+This project was created during my internship at **Arineo GmbH** in Göttingen.
+
+The dashboard structure was later filled with real customer data.
 
 ## 💡 Takeaway
 
-Well-structured data combined with clear visualization  
-enables better understanding of workforce dynamics and decision-making.
+Well-structured data combined with clear visualization enables a better understanding of workforce dynamics and decision-making.
